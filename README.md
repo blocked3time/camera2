@@ -11,3 +11,6 @@
 opencv 라이브러리로 비디오를 보낼 때의 시간을 측정하여 리눅스 터미널로 출력하며 
 반복문이 한 번 반복할 때의 주기는 약 30ms 이다.
 리눅스에서 컨트롤 + c 를 통해 종료할 수 있다
+  ![image](https://github.com/user-attachments/assets/b55c8dfd-ecbb-4365-bb47-11d463e73919)
+
+측정한 시간
